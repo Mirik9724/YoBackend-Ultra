@@ -1,0 +1,7 @@
+name: YoBackend-Ultra
+version: "${version}"
+main: net.Mirik9724.yoBackendUltra.Bukkit.YBU
+load: STARTUP
+authors: [Mirik9724]
+description: The plugin allows you to send commands from Velocity to Paper servers
+website: https://github.com/Mirik9724/YoBackend-Ultra
