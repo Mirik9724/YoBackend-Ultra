@@ -6,7 +6,7 @@ privateKey: ""
 
 # ONLY for proxy
 servers:
-  main: "ip:port"
+  main: "localhost:2000"
   vanilla: "ip:port"
 
 # for Bukkit ONLY
